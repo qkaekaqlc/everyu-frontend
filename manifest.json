@@ -1,0 +1,80 @@
+{
+  "name": "에브리유니",
+  "short_name": "에브리유니",
+  "description": "우리 학교 커뮤니티",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf6f0",
+  "theme_color": "#e87c3a",
+  "orientation": "portrait",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "education"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "게시판",
+      "url": "/?panel=board",
+      "description": "전체 게시판 보기"
+    },
+    {
+      "name": "글쓰기",
+      "url": "/?panel=write",
+      "description": "새 글 작성"
+    },
+    {
+      "name": "알림",
+      "url": "/?panel=notif",
+      "description": "알림 확인"
+    }
+  ]
+}
